@@ -1,4 +1,3 @@
-
 import os
 
 print("omar alpha bot running")
