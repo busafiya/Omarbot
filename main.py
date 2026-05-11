@@ -1,4 +1,4 @@
-print("omar alpha bot running")
+
 import os
 
 print("omar alpha bot running")
